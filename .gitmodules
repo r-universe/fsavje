@@ -3,3 +3,23 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "distances"]
+	path = distances
+	url = https://github.com/fsavje/distances
+	shallow = true
+	registered = true
+[submodule "quickblock"]
+	path = quickblock
+	url = https://github.com/fsavje/quickblock
+	shallow = true
+	registered = true
+[submodule "quickmatch"]
+	path = quickmatch
+	url = https://github.com/fsavje/quickmatch
+	shallow = true
+	registered = true
+[submodule "scclust"]
+	path = scclust
+	url = https://github.com/fsavje/scclust-r
+	shallow = true
+	registered = true

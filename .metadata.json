@@ -1,0 +1,18 @@
+[
+  {
+    "package": "distances",
+    "oncran": true
+  },
+  {
+    "package": "quickblock",
+    "oncran": true
+  },
+  {
+    "package": "quickmatch",
+    "oncran": true
+  },
+  {
+    "package": "scclust",
+    "oncran": true
+  }
+]

@@ -1,5 +1,9 @@
 [
   {
+    "package": "distances",
+    "oncran": true
+  },
+  {
     "package": "quickblock",
     "oncran": true
   },
